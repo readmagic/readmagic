@@ -1,4 +1,4 @@
-### Hello every,This is my introduce.
+### Hello everyOne,This is my introduce.
 
 - 🌱 I’m currently learning **scala**
 - 😄 That's all
